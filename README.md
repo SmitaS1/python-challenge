@@ -15,7 +15,7 @@ There are 2 folders and 1 file
   there is 1 data file in Resources folder (Given)
   - buget_data.csv
   - 
-  # Script (Py)file      
+ # Script (Py)file      
   - main.py
 
 # PyPoll
@@ -29,7 +29,7 @@ There are 2 folders and 1 file
   there is 1 data file in Resources folder (Given)   
   - election_data.csv
           
-  # Script (Py)file
+# Script (Py)file
   -main.py 
 
 
