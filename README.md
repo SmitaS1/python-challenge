@@ -14,10 +14,11 @@ There are 2 folders and 1 file
   # Resources
   there is 1 data file in Resources folder (Given)
   - buget_data.csv
-  - 
+    
  # Script (Py)file      
   - main.py
-
+ # ReadMe file
+  - ReadMe_PyBank.txt
 # PyPoll
 There are 2 folders and 1 file 
   
@@ -31,5 +32,7 @@ There are 2 folders and 1 file
           
 # Script (Py)file
   -main.py 
+# ReadMe file
+ - ReadMe_PyPoll.txt
 
 
