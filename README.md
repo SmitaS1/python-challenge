@@ -33,5 +33,5 @@ There are 2 folder
       ### there is 1 data file in Resources folder (Given)
      
         - election_data.csv
-        - 
+          
 -main.py 
